@@ -1,0 +1,4 @@
+com\sample\bank\Application.class
+com\sample\bank\config\WebApplicationConfig.class
+com\sample\bank\repo\BankAccountRepo.class
+com\sample\bank\model\BankAccount.class
